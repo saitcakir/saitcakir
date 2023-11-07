@@ -5,3 +5,4 @@
 - 📫 You can reach me with<a href="https://www.linkedin.com/in/sait-%C3%A7akir/"> my Linkedin Account</a>
 
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saitcakir)](https://github.com/anuraghazra/github-readme-stats)
